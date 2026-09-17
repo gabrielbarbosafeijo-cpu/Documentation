@@ -23,7 +23,6 @@ A Academia AYU não possui uma presença digital condizente com seu posicionamen
 - **CSS3** — estilização, responsividade e efeitos visuais
 - **JavaScript** — interatividade, validações e integração com WhatsApp
 - **Git/GitHub** — versionamento e hospedagem do repositório
-- **Lovable** — apoio na prototipação visual da landing page
 
 ## Funcionalidades
 
