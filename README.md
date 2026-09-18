@@ -36,7 +36,7 @@ Visão geral das principais funcionalidades do site:
 - Simulação de agendamento de aula experimental, com envio automático para o WhatsApp da academia
 - Layout responsivo (desktop, tablet e celular)
 
-A lista completa e detalhada de todas as funcionalidades previstas está no arquivo [FUNCIONALIDADES.md](./Functions.md).
+A lista completa e detalhada de todas as funcionalidades previstas está no arquivo [Functions.md](docs/Functions.md).
 
 ## Estrutura de arquivos e pastas
 
