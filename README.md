@@ -68,7 +68,7 @@ A lista completa e detalhada de todas as funcionalidades previstas está no arqu
 10 directories, 13 files
 ```
 
-A descrição detalhada do papel de cada arquivo e pasta está no arquivo [ARQUIVOS.md](./ARQUIVOS.md).
+A descrição detalhada do papel de cada arquivo e pasta está no arquivo [Files.md](docs/Files.md).
 
 ## Autores
 
