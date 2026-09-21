@@ -74,7 +74,7 @@ A descrição detalhada do papel de cada arquivo e pasta está no arquivo [Files
 
 - Gabriel Barbosa Feijó
 - Fernando Vinícius Faccin Bonete
-- Gustavo da Rocha
+- Gustavo Aparecido da Rocha
 
 **Docente orientador:** Bruno Luiz Schuster Rech
 **Mentor:** Jean Lucas Gomes Pereira
