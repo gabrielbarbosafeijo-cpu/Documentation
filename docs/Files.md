@@ -46,4 +46,4 @@ Contém a documentação acadêmica do projeto (PVI), referente ao curso de ADS 
 
 ---
 
-Voltar para o [README.md](./README.md).
+Voltar para o [README.md](/README.md).
