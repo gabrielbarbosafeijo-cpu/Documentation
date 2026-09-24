@@ -2,7 +2,7 @@
 
 Este documento lista, em detalhes, tudo o que está previsto para constar na página do site da Academia AYU nesta etapa do projeto (front-end).
 
-Voltar para o [README.md](./README.md).
+Voltar para o [README.md](/README.md).
 
 ## 1. Cabeçalho e navegação
 
@@ -76,4 +76,4 @@ Esses itens estão previstos para uma etapa futura do projeto, quando a camada d
 
 ---
 
-Voltar para o [README.md](./README.md).
+Voltar para o [README.md](/README.md).
