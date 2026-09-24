@@ -2,7 +2,7 @@
 
 Este documento explica, arquivo por arquivo e pasta por pasta, o que cada parte do repositório contém e para que serve.
 
-Voltar para o [README.md](README.md).
+Voltar para o [README.md](/README.md).
 
 ## Raiz do projeto
 
