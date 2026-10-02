@@ -38,7 +38,7 @@ Visão geral das principais funcionalidades do site:
 
 A lista completa e detalhada de todas as funcionalidades previstas está no arquivo [Functions.md](docs/Functions.md).
 
-## Estrutura de arquivos e pastas
+## Estrutura de arquivos e pastas - Planejamento
 
 ```
 .
@@ -75,6 +75,7 @@ A descrição detalhada do papel de cada arquivo e pasta está no arquivo [Files
 - Gabriel Barbosa Feijó
 - Fernando Vinícius Faccin Bonete
 - Gustavo Aparecido da Rocha
+- Enzo Gabriel Aguero Stanguerlin
 
 **Docente orientador:** Bruno Luiz Schuster Rech
 **Mentor:** Jean Lucas Gomes Pereira
